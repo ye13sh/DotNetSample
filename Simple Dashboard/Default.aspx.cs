@@ -56,7 +56,7 @@ namespace Simple_Dashboard
             series = new List<Serie>();
             series.Add(new Serie
             {
-                name = "Liver",
+                name = "Stomach",
                 data = new Object[] { Convert.ToInt32(LiverR), Convert.ToInt32(LiverU)
                                                                         //, 144.0, 176.0, 135.6, 148.5, 216.4, 194.1, 95.6, 54.4 
                                                                         }
