@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>D:\NIC\After Covid19 September\After 3rd Wave\Published\JS_Dashboard_2.0</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="1.html">
+      <publishTime>06/30/2013 23:31:40</publishTime>
+    </File>
+    <File Include="2.html">
+      <publishTime>06/30/2013 14:40:14</publishTime>
+    </File>
+    <File Include="3.html">
+      <publishTime>06/30/2013 14:40:14</publishTime>
+    </File>
+    <File Include="4.html">
+      <publishTime>06/30/2013 14:40:14</publishTime>
+    </File>
+    <File Include="5.html">
+      <publishTime>06/30/2013 14:40:14</publishTime>
+    </File>
+    <File Include="6.html">
+      <publishTime>06/30/2013 14:40:14</publishTime>
+    </File>
+    <File Include="backbtn.png">
+      <publishTime>06/30/2013 23:35:24</publishTime>
+    </File>
+    <File Include="bin/Highchart.dll">
+      <publishTime>06/30/2013 13:31:56</publishTime>
+    </File>
+    <File Include="bin/HighchartsWebApp.dll">
+      <publishTime>07/01/2013 12:50:52</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>11/09/2019 00:56:44</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.Net20.dll">
+      <publishTime>06/30/2013 14:29:00</publishTime>
+    </File>
+    <File Include="bin/Simple Dashboard.dll">
+      <publishTime>07/13/2022 16:30:37</publishTime>
+    </File>
+    <File Include="bin/Simple Dashboard.dll.config">
+      <publishTime>07/07/2022 16:38:33</publishTime>
+    </File>
+    <File Include="bin/Simple Dashboard.pdb">
+      <publishTime>07/13/2022 16:30:37</publishTime>
+    </File>
+    <File Include="ChartsJS.aspx">
+      <publishTime>07/13/2022 16:21:15</publishTime>
+    </File>
+    <File Include="Dashboard.aspx">
+      <publishTime>06/03/2022 15:22:58</publishTime>
+    </File>
+    <File Include="Default.aspx">
+      <publishTime>07/12/2022 12:03:45</publishTime>
+    </File>
+    <File Include="HighchartsWebApp.csproj">
+      <publishTime>07/01/2013 12:50:52</publishTime>
+    </File>
+    <File Include="HighchartsWebApp.csproj.user">
+      <publishTime>07/01/2013 12:50:52</publishTime>
+    </File>
+    <File Include="imgs/backbtn.png">
+      <publishTime>06/30/2013 14:40:14</publishTime>
+    </File>
+    <File Include="index.html">
+      <publishTime>07/01/2013 12:16:48</publishTime>
+    </File>
+    <File Include="js/highcharts.js">
+      <publishTime>07/13/2022 16:23:23</publishTime>
+    </File>
+    <File Include="js/highcharts_exporting.js">
+      <publishTime>07/13/2022 16:17:18</publishTime>
+    </File>
+    <File Include="js/highcharts_new.js">
+      <publishTime>07/12/2022 11:52:58</publishTime>
+    </File>
+    <File Include="js/jquery-1.8.3.min.js">
+      <publishTime>07/08/2022 13:56:20</publishTime>
+    </File>
+    <File Include="js/TweenLite.min.js">
+      <publishTime>06/30/2013 14:40:14</publishTime>
+    </File>
+    <File Include="js/TweenMax.min.js">
+      <publishTime>07/08/2022 17:30:20</publishTime>
+    </File>
+    <File Include="Ratingchart.aspx">
+      <publishTime>06/08/2022 15:26:40</publishTime>
+    </File>
+    <File Include="readme.txt">
+      <publishTime>06/30/2013 14:40:14</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>07/08/2022 17:04:27</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
