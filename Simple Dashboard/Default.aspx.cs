@@ -63,7 +63,7 @@ namespace Simple_Dashboard
             });
             series.Add(new Serie
             {
-                name = "Kidney",
+                name = "Liver",
                 data = new Object[] { Convert.ToInt32(KidneyR), Convert.ToInt32(KidneyU)
                                                                         //, 106.0, 84.5, 105.0, 104.3, 91.2, 83.5, 106.6, 92.3 
                                                                         }
